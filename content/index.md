@@ -1,7 +1,5 @@
 ---
 title: AI Assisted Development
-aliases:
-  - Home Page
 tags:
   - index
 ---

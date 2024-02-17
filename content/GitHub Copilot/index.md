@@ -4,8 +4,6 @@ tags:
   - github
   - copilot
   - index
-aliases:
-  - GitHub Copilot Slides
 ---
 # GitHub Copilot
 
