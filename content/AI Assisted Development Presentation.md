@@ -2,4 +2,10 @@
 title: AI Assisted Development Presentation
 tags:
 ---
-[[content/GitHub Copilot/index|GitHub Copilot Slides]]
+[[What is GitHub Copilot]]
+[[GitHub Copilot/index|Github Copilot Slides]]
+
+[[Subscriptions]]
+
+[[content/Glossary/index|index]]
+[[Glossary/index|index]]
