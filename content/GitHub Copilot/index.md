@@ -26,7 +26,7 @@ Unless you use [[Copilot Business]], in which case all the prompts are only tran
 > [!attention] Although...
 > Some data **is** used by GitHub and Microsoft to improve and provide usage data to the service.
 > > [!question]+ What is sent?
-> > Telemetry that is used to measure the `impact of copilot on the users`, `sorting algorithms` and `prompt crafting`. And to conduct research and experiments to improve how developers use the tools.
+> > Telemetry that is used to measure the impact of copilot on the users, sorting algorithms and prompt crafting. And to conduct research and experiments to improve how developers use the tools.
 
 ---  
   
