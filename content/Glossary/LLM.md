@@ -1,6 +1,5 @@
 ---
 title: What is a LLM
-draft: false
 tags:
   - LLM
 ---

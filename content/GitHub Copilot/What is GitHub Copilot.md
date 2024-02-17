@@ -1,6 +1,5 @@
 ---
 title: What is GitHub Copilot
-draft: false
 tags:
   - copilot
   - github

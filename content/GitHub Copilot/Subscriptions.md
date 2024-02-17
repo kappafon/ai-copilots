@@ -1,6 +1,5 @@
 ---
 title: Subscriptions
-draft: false
 tags:
   - subscription
 ---

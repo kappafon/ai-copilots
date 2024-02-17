@@ -1,6 +1,5 @@
 ---
 title: GitHub Copilot
-draft: false
 tags:
   - github
   - copilot
