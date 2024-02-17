@@ -1,7 +1,7 @@
-
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags: 
 ---
-
-New text
+title: Advanced
+draft: false
+tags:
+  - example-tag
+---
+New text with props
