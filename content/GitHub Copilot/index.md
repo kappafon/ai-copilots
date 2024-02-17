@@ -6,7 +6,13 @@ tags:
   - copilot
   - index
 ---
-Github copilot is a code assistant that helps us write code faster. It's based on GPT model from open AI that powers chat GPT. But it's a focused Language Learning Model. Trained on a huge amount of public code. The more popular the language is, the more useful it will be.  
+# GitHub Copilot
+
+## What?
+
+Paid service from GitHub.
+
+GitHub copilot is a code assistant that helps us write code faster. It's based on GPT model from open AI that powers chat GPT. But it's a focused Language Learning Model. Trained on a huge amount of public code. The more popular the language is, the more useful it will be.  
   
 To use it, you need a subscription. Currently, generally available subscriptions are individual and business, with enterprise, which has a waitlist, coming in the future.  
   
