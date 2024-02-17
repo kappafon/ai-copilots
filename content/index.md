@@ -1,6 +1,9 @@
 ---
-
-title: Welcome to Quartz
-
+title: AI Assisted Development
+aliases:
+  - Home Page
+  - MOC
+tags:
+  - index
 ---
-The rest of your content lives here. You can use **Markdown** here :)
+AI assisted development home page.
