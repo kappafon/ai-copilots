@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![[GitHub Copilot Subscriptions]]
+![[Subscriptions]]
 
 ---
 

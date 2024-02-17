@@ -1,5 +1,5 @@
 ---
-title: What is GitHub Copilot?
+title: What is GitHub Copilot
 tags:
   - copilot
   - github

@@ -5,12 +5,12 @@ tags:
 ---
 AI assisted development home page.
 
-[[AI Assisted Development Presentation]]
+[[Presentation]]
 
 ![[qrcode_1708192868345.png|400]]
 
 # Map Of Content:
 
-- [[GitHub Copilot Slides|GitHub Copilot]]
+- [[Slides|GitHub Copilot]]
 - [[Glossary/index|Glossary]]
 

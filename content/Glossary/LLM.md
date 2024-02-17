@@ -1,5 +1,5 @@
 ---
-title: What is a LLM?
+title: LLM
 tags:
   - LLM
 ---
