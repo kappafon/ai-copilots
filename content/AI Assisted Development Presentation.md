@@ -1,5 +1,5 @@
 ---
-title: AI Assisted Development Presentation
+title: Presentation
 tags:
 ---
 [[GitHub Copilot Slides]]

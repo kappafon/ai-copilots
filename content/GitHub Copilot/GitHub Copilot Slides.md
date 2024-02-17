@@ -1,5 +1,5 @@
 ---
-title: GitHub Copilot Slides
+title: Slides
 tags:
   - github
   - copilot
@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![[Subscriptions]]
+![[GitHub Copilot Subscriptions]]
 
 ---
 
