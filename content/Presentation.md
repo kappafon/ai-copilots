@@ -2,4 +2,4 @@
 title: Presentation
 tags:
 ---
-[[Slides]]
+[[Slides|GitHub Copilot Slides]]

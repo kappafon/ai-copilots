@@ -11,6 +11,6 @@ AI assisted development home page.
 
 # Map Of Content:
 
-- [[Slides|GitHub Copilot]]
+- [[GitHub Copilot/index|GitHub Copilot ]]
 - [[Glossary/index|Glossary]]
 
