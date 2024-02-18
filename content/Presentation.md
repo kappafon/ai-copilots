@@ -5,5 +5,6 @@ tags:
   - presentation
 ---
 
+[[AI Assisted Development/Slides|AI Assisted Development]]
 
-[[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
+[[GitHub Copilot/Slides|GitHub Copilot Slides]]
