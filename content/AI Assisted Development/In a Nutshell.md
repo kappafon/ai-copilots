@@ -5,9 +5,12 @@ tags:
 ---
 > ## Yes, but...
 
-We should not immediately assume that generated code or suggestions are accurate or optimal.
+While AI assistants are good for smaller, repetitive or common tasks they may not be that great with complex or **novel problems**[^novel-probs] that require human innovation.
 
-While AI assistants are good for smaller, repetitive or common tasks they may not be that great with complex or novel[^novel-probs] problems that require human innovation.
+Also, we should not immediately assume that generated code or suggestions are accurate or optimal.
 
-[^novel-probs]: <iframe src="https://embed.reddit.com/r/ChatGPTCoding/comments/18cj8r7/comment/kcd4myp/?embed=true&amp;ref_source=embed&amp;ref=share&amp;utm_medium=widgets&amp;utm_source=embedv2&amp;utm_term=23&amp;theme=dark&amp;showmedia=false&amp;showmore=false&amp;depth=1&amp;utm_name=comment_embed&amp;embed_host_url=https%3A%2F%2Fpublish.reddit.com%2Fembed" style="width: 100%; height: 368px"></iframe>
+There is also a dependency issue. Down the line it may become a crutch. Inhibiting your independent problem solving.
 
+And those are just some of potential concerns, then there's security, privacy, bias...
+
+[^novel-probs]: [[Reddit - AI is Bad at Novel Problems]]

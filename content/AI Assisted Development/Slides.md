@@ -11,10 +11,13 @@ tags:
 ![[General Idea]]
 
 ---
-
 ## Do they deliver on that promise?
 
 ![[In a Nutshell]]
+
+---
+
+![[Reddit - AI is Bad at Novel Problems]]
 
 ---
 
@@ -22,3 +25,12 @@ tags:
 
 ---
 
+![[Context]]
+
+---
+
+![[Code Completions]]
+
+---
+
+![[Chat-based Assistance]]
