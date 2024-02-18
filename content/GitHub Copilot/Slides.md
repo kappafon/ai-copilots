@@ -10,11 +10,6 @@ tags:
 ![[What is GitHub Copilot]] 
 
 ---
-
-![[Subscriptions]]
-
----
-
 ![[LLM]]
 
 ---
@@ -28,15 +23,34 @@ tags:
 
 ---
 
-Unless you use [[Copilot Business]], in which case all the prompts are only transmitted in real time and are not retained.
+Unless you use [[Copilot Business]][^1], in which case 
+
+![[Copilot Business Privacy]]
 
 ---
 
-> [!attention] Although...
-> Some data **is** used by GitHub and Microsoft to improve and provide usage data to the service.
-> > [!question]+ What is sent?
-> > Telemetry that is used to measure the impact of copilot on the users, sorting algorithms and prompt crafting. And to conduct research and experiments to improve how developers use the tools.
+![[Subscriptions]]
 
----  
+---
+
+![[Copilot Individual]]
+
+---
+
+![[Copilot Business]]
+
+---
+
+![[Copilot Enterprise]]
+
+---
+
+![[Copilot Pricing Estimates]]
+
+---
   
 [https://create-react-app.dev/docs/getting-started/#creating-a-typescript-app](https://create-react-app.dev/docs/getting-started/#creating-a-typescript-app)
+
+---
+
+[^1]: Probably including [[Copilot Enterprise]] in the future
