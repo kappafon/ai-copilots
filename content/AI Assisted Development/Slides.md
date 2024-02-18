@@ -12,3 +12,9 @@ tags:
 
 ---
 
+## Do they deliver on that promise?
+
+![[In a Nutshell]]
+
+---
+

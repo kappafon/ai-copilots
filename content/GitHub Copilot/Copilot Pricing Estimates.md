@@ -7,10 +7,10 @@ tags:
   - github
 ---
 > [!info]+ Informative yearly price of **Copilot Business** for 20 developers
-> _$19 \* 12 months \* 20 developers = $4560 per year_
+> $19 x 12 months x 20 developers = $4560 per year
 
 > [!info]+ Informative yearly price of **Copilot Enterprise** for 20 developers
-> **Copilot:** _$39 \* 12 months \* 20 developers = $9360 per year_
-> **Cloud**: _$21 \* 12 months \* 20 developers = $5040 per year_
+> **Copilot:** $39 x 12 months x 20 developers = $9360 per year
+> **Cloud**: $21 x 12 months x 20 developers = $5040 per year
 > 
-> **Total:** _$9360 \+ $5040 = $14400 per year_
+> **Total:** $9360 + $5040 = $14400 per year
