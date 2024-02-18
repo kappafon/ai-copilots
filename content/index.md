@@ -10,6 +10,8 @@ Link to the [[Presentation]]
 
 # Map Of Content:
 
-- [[GitHub Copilot/index|GitHub Copilot ]]
-- [[Glossary/index|Glossary]]
+- [[AI Assisted Development/index|AI Assisted Development]]
 
+- [[GitHub Copilot/index|GitHub Copilot ]]
+
+- [[Glossary/index|Glossary]]

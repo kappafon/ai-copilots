@@ -7,6 +7,8 @@ tags:
 ---
 # GitHub Copilot
 
+---
+
 ![[What is GitHub Copilot]] 
 
 ---
@@ -49,8 +51,4 @@ Unless you use [[Copilot Business]][^1], in which case...
 
 ---
   
-[https://create-react-app.dev/docs/getting-started/#creating-a-typescript-app](https://create-react-app.dev/docs/getting-started/#creating-a-typescript-app)
-
----
-
-[^1]: Probably including [[Copilot Enterprise]] in the future
+[^1]: Probably including [[Copilot Enterprise]] in the future _(tbd Feb 2024)_

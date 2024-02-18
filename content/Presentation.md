@@ -1,5 +1,9 @@
 ---
 title: Presentation
 tags:
+  - slides
+  - presentation
 ---
-[[Slides|GitHub Copilot Slides]]
+
+
+[[content/GitHub Copilot/Slides|GitHub Copilot Slides]]

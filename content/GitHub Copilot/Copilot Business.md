@@ -1,8 +1,9 @@
 ---
 title: Copilot Business
 tags:
-  - github
   - subscription
+  - business
+  - github
 ---
 ![[Screenshot 2024-02-18 092602.png|501]]
 

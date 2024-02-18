@@ -1,6 +1,9 @@
 ---
 title: Copilot Enterprise
 tags:
+  - enterprise
+  - subscription
+  - github
 ---
 ![[Screenshot 2024-02-18 093323.png|510]][^1]
 

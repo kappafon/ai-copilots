@@ -1,6 +1,10 @@
 ---
 title: Copilot Pricing Estimates
 tags:
+  - subscription
+  - enterprise
+  - business
+  - github
 ---
 > [!info]+ Informative yearly price of **Copilot Business** for 20 developers
 > _$19 \* 12 months \* 20 developers = $4560 per year_

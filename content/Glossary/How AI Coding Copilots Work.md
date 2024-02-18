@@ -1,6 +1,7 @@
 ---
 title: How AI Coding Copilots Work
 tags:
+  - copilot
 ---
 The way coding copilots generally work is that the information is sent from the computer to the AI, and AI retains the information to train the language model.
   
