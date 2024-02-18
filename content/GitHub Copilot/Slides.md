@@ -18,6 +18,11 @@ tags:
 ![[LLM]]
 
 ---
+
+> [!info]+ Additional Info
+> ![[How LLMs are trained]]
+
+---
   
 ![[How AI Coding Copilots Work]] 
 
