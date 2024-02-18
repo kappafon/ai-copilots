@@ -3,7 +3,8 @@ title: AI Assisted Development Research
 tags:
   - index
 ---
-This is a home page.
+This is a home page
+
 Link to the [[Presentation]]
 
 ![[qrcode_1708192868345.png|400]]
@@ -13,5 +14,9 @@ Link to the [[Presentation]]
 - [[AI Assisted Development/index|AI Assisted Development]]
 
 - [[GitHub Copilot/index|GitHub Copilot ]]
+
+- [[Pieces/index|Pieces]]
+
+- [[Others/index|Others]]
 
 - [[Glossary/index|Glossary]]
