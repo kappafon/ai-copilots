@@ -23,7 +23,7 @@ tags:
 
 ---
 
-Unless you use [[Copilot Business]][^1], in which case 
+Unless you use [[Copilot Business]][^1], in which case...
 
 ![[Copilot Business Privacy]]
 
