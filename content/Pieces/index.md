@@ -1,0 +1,5 @@
+---
+title: Pieces
+tags:
+  - index
+---

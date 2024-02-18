@@ -1,0 +1,5 @@
+---
+title: Others
+tags:
+  - index
+---
