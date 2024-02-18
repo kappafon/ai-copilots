@@ -1,11 +1,10 @@
 ---
-title: AI Assisted Development
+title: AI Assisted Development Research
 tags:
   - index
 ---
-AI assisted development home page.
-
-[[Presentation]]
+This is a home page.
+Link to the [[Presentation]]
 
 ![[qrcode_1708192868345.png|400]]
 
