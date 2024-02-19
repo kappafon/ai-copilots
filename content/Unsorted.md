@@ -26,6 +26,8 @@ tags:
 - [Meaningful Code Tests for Busy Devs | CodiumAI](https://www.codium.ai/)
 - [Prompt Engineering for Web Developers (scrimba.com)](https://scrimba.com/learn/promptengineering/)
 - [Azure-Samples/azure-devops-copilot-extension: An Azure DevOps Copilot Extension Sample (github.com)](https://github.com/Azure-Samples/azure-devops-copilot-extension)
+- [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
+- [Cursor - The AI-first Code Editor](https://cursor.sh/)
 
 ## GitHub Copilot specific:
 
