@@ -25,6 +25,10 @@ tags:
 
 ---
 
+![[Context Window]]
+
+---
+
 ![[How Copilots Get Context]]
 
 ---
