@@ -21,6 +21,10 @@ tags:
 
 ---
 
+![[What AI Assistants Are Good For]]
+
+---
+
 ![[Benefits of Dedicated AI ]]
 
 ---
