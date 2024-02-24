@@ -33,6 +33,10 @@ tags:
 
 ---
 
+![[context-length-1024x591.jpg]]
+
+---
+
 ![[How Copilots Get Context]]
 
 ---
