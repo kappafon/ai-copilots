@@ -38,11 +38,11 @@ There's
 [CodeSnippetsAI](https://codesnippets.ai/)
 [aider](https://github.com/paul-gauthier/aider)
 [Cursor](https://cursor.sh/)
+[koboldcpp](https://github.com/LostRuins/koboldcpp)
+[selfie](https://github.com/vana-com/selfie)
+[neurochat](https://github.com/ortegaalfredo/neurochat)
+[azure-devops-copilot](https://github.com/Azure-Samples/azure-devops-copilot-extension)
+[DeployAI](https://deploy.ai/)
 
 
-
-
-
-
-
- Some of them IDEs, some of them IDE extensions, some terminal-based, some chat-based, hosted online, local only, paid, free, open source, closed source, subscription based, you name it....
+Some of them IDEs, some of them IDE extensions, some terminal-based, some chat-based, hosted online, local only, paid, free, open source, closed source, subscription based, you name it....
