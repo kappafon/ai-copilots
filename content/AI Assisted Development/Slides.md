@@ -37,11 +37,4 @@ tags:
 
 ---
 
-![[Code Completions]]
-
----
-
-![[Chat-based Assistance]]
-
----
-
+Next: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
