@@ -9,4 +9,4 @@ They are designed for [[Code Completions]] and [[Chat-based Assistance]], in the
 
 Another thing is that they are somewhat customizable and include different quality of life features such as code formatting, documenting, language detection, etc.
 
-And the big difference being the [[Context]] they use in addition to eventual prompt you might type.
+And the big difference being the [[How Copilots Get Context]] they use in addition to eventual prompt you might type.

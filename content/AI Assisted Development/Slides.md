@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![[Context]]
+![[How Copilots Get Context]]
 
 ---
 
