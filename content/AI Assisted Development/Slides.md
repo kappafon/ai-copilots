@@ -41,11 +41,9 @@ tags:
 
 ---
 
+![[AI development assistants.mp3]]
+
 ![[What To Choose]]
-
----
-
-![[What To Choose Part 2]]
  
 ---
 
@@ -55,4 +53,3 @@ tags:
 ---
 
 But let's start with: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
-
