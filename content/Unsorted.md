@@ -14,9 +14,10 @@ tags:
 
 ## GitHub Copilot specific:
 
-![[Additional Resources Index]]
+![[content/GitHub Copilot/Additional Resources Index]]
 
 
 ## Pieces specific:
 
-- [GitHub Copilot vs ChatGPT vs Tabnine: A Comprehensive Feature Comparison with Pieces](https://code.pieces.app/blog/github-copilot-vs-chatgpt-vs-tabnine-feature-comparison)
+![[content/Pieces/Additional Resources Index|Additional Resources Index]]
+

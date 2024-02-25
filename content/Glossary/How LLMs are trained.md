@@ -10,3 +10,4 @@ After the tokenization, models go through training phases. Where given different
 Most of the training is a statistical analysis of the tokens, that determines the most likely next token. But **that** is followed by human led reinforcement. So the models and their predictions get _"better"_[^is-it] over time as they are trained on human preference.
 
 [^is-it]: [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality (incl 2024 projections) - GitClear](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
+

@@ -49,4 +49,9 @@ tags:
  
 ---
 
+> [!note]
+> One of the ideal options in my mind, would be using Azure OpenAI service to deploy a generative AI model and 'finance' it with our individual Dev subscriptions. Create an API key for whichever tool we decide on (provided it allows us to do it). Profit?!
+
+---
+
 Next: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
