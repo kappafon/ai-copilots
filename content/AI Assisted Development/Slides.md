@@ -41,6 +41,12 @@ tags:
 
 ---
 
-Next: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
-
 ![[What To Choose]]
+
+---
+
+![[What To Choose Part 2]]
+ 
+---
+
+Next: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]

@@ -56,3 +56,7 @@ Unless you use [[Copilot Business]][^1], in which case...
 ---
   
 [^1]: Probably including [[Copilot Enterprise]] in the future _(tbd Feb 2024)_
+
+---
+
+Next: [[content/Pieces/Slides|Pieces Slides]]
