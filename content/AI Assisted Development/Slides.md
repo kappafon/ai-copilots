@@ -54,4 +54,5 @@ tags:
 
 ---
 
-Next: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
+But let's start with: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
+
