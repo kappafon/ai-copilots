@@ -3,8 +3,6 @@ title: Unsorted Links
 tags:
   - unsorted
 ---
-
-
 - [nistvan86/continuedev-llamacpp-gpu-llm-server (github.com)](https://github.com/nistvan86/continuedev-llamacpp-gpu-llm-server)
 - [Overview | LocalAI documentation](https://localai.io/)
 - [joaomdmoura/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (github.com)](https://github.com/joaomdmoura/crewAI)
