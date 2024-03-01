@@ -10,7 +10,7 @@ tags:
 
 RnD employees after reading an article about being replaced by AI
 
-![[00002.png|700]]
+![[00002.png|768]]
 
 ---
 
