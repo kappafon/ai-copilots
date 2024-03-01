@@ -8,11 +8,11 @@ tags:
 
 ---
 
-RnD employees after reading an article about being replaced by AI
+R&D employees after reading yet an article about inevitably being replaced by AI
 
-![[00002.png|768]]
+![[00002.png|600]]
 
-https://youtu.be/kgHms6mLqGg?si=KdyRueoFxcUKWGp8&t=438
+- [GitHub's Reassurance](https://youtu.be/kgHms6mLqGg?si=KdyRueoFxcUKWGp8&t=438)
 
 ---
 
