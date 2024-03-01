@@ -11,6 +11,10 @@ tags:
 
 ---
 
+What is the point of this presentation?
+
+---
+
 R&D employees after reading yet an article about inevitably being replaced by AI
 
 ![[00002.png|600]]

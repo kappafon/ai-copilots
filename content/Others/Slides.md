@@ -6,4 +6,4 @@ tags:
   - AI
 ---
 > [!todo]
-> maybe a table with columns like, Azure OpenAI, Local LLM, Pricing, etc
+> maybe a table with columns what the tool is supporting like, Azure OpenAI, Local LLM, Pricing, etc
