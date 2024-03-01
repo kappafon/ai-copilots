@@ -8,6 +8,18 @@ tags:
 
 ---
 
+RnD employees after reading an article about being replaced by AI
+
+![[00002.png|700]]
+
+---
+
+RnD employees after seeing AI in action
+
+![[00001.png|700]]
+
+---
+
 ![[General Idea]]
 
 ---
