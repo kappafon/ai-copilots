@@ -47,7 +47,7 @@ RnD employees after reading an article about being replaced by AI
 
 ---
 
-![[AI development assistants.mp3]]
+![[better-freddie-mercury-XDT6lN0W-combined.mp3]]
 
 ![[What To Choose]]
  
