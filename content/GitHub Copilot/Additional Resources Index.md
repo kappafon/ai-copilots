@@ -4,6 +4,8 @@ tags:
   - reference
   - github
 ---
+- [Take GitHub Copilot on a test-flight. - GitHub Resources](https://resources.github.com/copilot-demo/)
+
 - [GitHub Next](https://githubnext.com/)
 - [You searched for copilot - The GitHub Blog](https://github.blog/?s=copilot)
 - [Coding with an AI pair programmer: Getting started with GitHub Copilot (youtube.com)](https://www.youtube.com/watch?v=dhfTaSGYQ4o)

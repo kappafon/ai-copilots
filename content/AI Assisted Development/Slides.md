@@ -12,6 +12,8 @@ RnD employees after reading an article about being replaced by AI
 
 ![[00002.png|768]]
 
+https://youtu.be/kgHms6mLqGg?si=KdyRueoFxcUKWGp8&t=438
+
 ---
 
 ![[General Idea]]
