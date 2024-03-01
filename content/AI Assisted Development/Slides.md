@@ -7,6 +7,9 @@ tags:
 # AI Assisted Development
 
 ---
+![[Disclaimers]]
+
+---
 
 R&D employees after reading yet an article about inevitably being replaced by AI
 
