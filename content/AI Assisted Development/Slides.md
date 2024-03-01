@@ -49,7 +49,7 @@ https://youtu.be/kgHms6mLqGg?si=KdyRueoFxcUKWGp8&t=438
 
 ---
 
-![[AI development assistants.mp3]]
+![[better-freddie-mercury-XDT6lN0W-combined.mp3]]
 
 ![[What To Choose]]
  
