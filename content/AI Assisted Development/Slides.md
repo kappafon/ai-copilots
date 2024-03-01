@@ -67,4 +67,4 @@ R&D employees after reading yet an article about inevitably being replaced by AI
 
 ---
 
-But let's start with: [[content/GitHub Copilot/Slides|GitHub Copilot Slides]]
+But let's start with: [[GitHub Copilot/Slides|GitHub Copilot Slides]]

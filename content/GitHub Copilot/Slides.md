@@ -59,4 +59,4 @@ Unless you use [[Copilot Business]][^1], in which case...
 
 ---
 
-Next: [[content/Pieces/Slides|Pieces Slides]]
+Next: [[Pieces/Slides|Pieces Slides]]

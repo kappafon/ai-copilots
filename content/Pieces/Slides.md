@@ -28,5 +28,5 @@ tags:
 
 ---
 
-The rest of tools: [[content/Others/Slides|Others Slides]]
+The rest of tools: [[Others/Slides|Others Slides]]
 

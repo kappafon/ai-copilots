@@ -13,10 +13,10 @@ tags:
 
 ## GitHub Copilot specific:
 
-![[content/GitHub Copilot/Additional Resources Index]]
+![[GitHub Copilot/Additional Resources Index]]
 
 
 ## Pieces specific:
 
-![[content/Pieces/Additional Resources Index|Additional Resources Index]]
+![[Pieces/Additional Resources Index|Additional Resources Index]]
 
