@@ -26,5 +26,7 @@ tags:
 
 ![[DEMO]]
 
+---
+
 The rest of tools: [[content/Others/Slides|Others Slides]]
 
